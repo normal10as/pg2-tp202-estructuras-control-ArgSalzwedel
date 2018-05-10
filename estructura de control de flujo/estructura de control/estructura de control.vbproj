@@ -69,6 +69,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="21.vb" />
+    <Compile Include="22.vb" />
+    <Compile Include="23.vb" />
+    <Compile Include="24.vb" />
+    <Compile Include="25.vb" />
+    <Compile Include="26.vb" />
+    <Compile Include="27.vb" />
+    <Compile Include="28.vb" />
+    <Compile Include="29.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
