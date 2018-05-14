@@ -2,7 +2,7 @@
 
 
     Sub main()
-        Dim data1 As Int16 = 3
+        Dim data1 As Int16 = 30
         Dim data2 As Int16 = 7
         Dim data3 As Int16 = 12
         Dim data4 As Int16 = 5
