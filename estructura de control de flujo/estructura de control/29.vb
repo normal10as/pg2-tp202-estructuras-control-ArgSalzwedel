@@ -1,4 +1,4 @@
-﻿Module _29
+﻿Module ejerciciio29
     '    Elabore un algoritmo que permita hacer conversiones de equivalencias entre metros, centímetros, yardas, pies y pulgadas:
     '         Presentar un menú y preguntar que unidad de medida desea convertir, 
     '    el valor a convertir y después mostrar las equivalencias.  

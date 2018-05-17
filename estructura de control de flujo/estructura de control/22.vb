@@ -1,4 +1,4 @@
-﻿Module module22
+﻿Module ejercicio22
     Sub main()
         Dim numm1 As Int16
         Dim numm2 As Int16

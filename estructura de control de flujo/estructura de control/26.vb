@@ -1,4 +1,4 @@
-﻿Module _26
+﻿Module ejercicio26
 
 
     Sub main()

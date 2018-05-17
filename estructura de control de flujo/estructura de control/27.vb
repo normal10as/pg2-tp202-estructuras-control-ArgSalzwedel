@@ -1,4 +1,4 @@
-﻿Module _27
+﻿Module ejercicio27
     Sub main()
         'Agudo si es menor a 90° Recto 
         '    si es igual a 90° Obtuso 

@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5210323A-4463-4BCE-9B2B-45ECF39A996B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>estructura_de_control.module23</StartupObject>
+    <StartupObject>estructura_de_control.ejercicio212</StartupObject>
     <RootNamespace>estructura_de_control</RootNamespace>
     <AssemblyName>estructura de control</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -70,6 +70,9 @@
   <ItemGroup>
     <Compile Include="21.vb" />
     <Compile Include="210.vb" />
+    <Compile Include="211.vb" />
+    <Compile Include="212.vb" />
+    <Compile Include="213vb.vb" />
     <Compile Include="22.vb" />
     <Compile Include="23.vb" />
     <Compile Include="24.vb" />
@@ -78,7 +81,7 @@
     <Compile Include="27.vb" />
     <Compile Include="28.vb" />
     <Compile Include="29.vb" />
-    <Compile Include="Module1.vb" />
+    <Compile Include="ejemplos.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -94,6 +97,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="clase de sobrecarga.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

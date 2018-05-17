@@ -1,4 +1,4 @@
-﻿Module module24
+﻿Module ejercicio24
 
     Sub main()
 
@@ -7,7 +7,7 @@
         Dim operacion As Single
         Dim operacion2 As Single
         Dim operacion3 As Single
-        Dim subtotal As single
+        Dim subtotal As Single
         Console.WriteLine("ingrese la cantidad de productos :")
         producto1 = Console.ReadLine()
 

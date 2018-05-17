@@ -1,4 +1,4 @@
-﻿Module _28
+﻿Module ejercicio28
     Enum mes
         enero
         marzo

@@ -1,4 +1,4 @@
-﻿Module module23
+﻿Module ejercicio23
 
 
     Sub main()
